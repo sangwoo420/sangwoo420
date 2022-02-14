@@ -4,10 +4,10 @@
 
 # About
 
-- Chonnam National University (2014.2 ~ 2021.8)
+- Chonnam National University (2014.02 ~ 2021.08)
 - Department of Electronics and Computer Engineering
-- Majored in Software Engineering
-- Samsung Software Academy For Youth 6th (2021.7 ~ Now)
+- Majored in Software Engineering (Bachelor's degree)
+- Samsung Software Academy For Youth 6th (2021.07 ~ Now)
 
 ---
 
@@ -23,7 +23,7 @@
 
 - Calisthenics
 - Playing guitar
-- Building somthings
+- Building somethings
 
 ---
 
