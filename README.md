@@ -1,16 +1,36 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SANGWOO%20PARK&fontSize=60&fontAlign=70&fontAlignY=80)
 
-<!--
-**sangwoo420/sangwoo420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Chonnam National University (2014.2 ~ 2021.8)
+- Department of Electronics and Computer Engineering
+- Majored in Software Engineering
+- Samsung Software Academy For Youth 6th (2021.7 ~ Now)
+
+---
+
+# Working on
+
+- Java
+- Spring Framework
+- Problem Solving
+
+---
+
+# Hobby
+
+- Calisthenics
+- Playing guitar
+- Building somthings
+
+---
+
+# More Informations
+
+- Not yet
+
+---
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwoo420">
