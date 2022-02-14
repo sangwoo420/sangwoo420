@@ -19,7 +19,7 @@
 
 ---
 
-# Hobby
+# Hobbies
 
 - Calisthenics
 - Playing guitar
@@ -27,7 +27,7 @@
 
 ---
 
-# More Informations
+# More Information
 
 - Not yet
 
