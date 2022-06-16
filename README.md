@@ -29,7 +29,7 @@
 
 # More Information
 
-- [Portfolio](https://persistent-link-d67.notion.site/5430d41862bc4e45aae1f0d5fb27b485)
+- [Portfolio](portfolio.pdf)
 
 ---
 
