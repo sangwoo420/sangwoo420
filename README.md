@@ -7,7 +7,7 @@
 - Chonnam National University (2014.02 ~ 2021.08)
 - Department of Electronics and Computer Engineering
 - Majored in Software Engineering (Bachelor's degree)
-- Samsung Software Academy For Youth 6th (2021.07 ~ Now)
+- Samsung Software Academy For Youth 6th (2021.07 ~ 2022.06)
 
 ---
 
