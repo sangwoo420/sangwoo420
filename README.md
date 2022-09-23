@@ -30,6 +30,7 @@
 # More Information
 
 - [Portfolio](portfolio.pdf)
+- [전남대학교 문화전문대학원 기타 세션](https://www.youtube.com/watch?v=mXPBLOPMhII)
 
 ---
 
